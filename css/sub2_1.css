@@ -95,6 +95,8 @@
     font-weight: 300;
     line-height: 28px;
     margin-bottom: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 #menu_title > .menu .firstP {
     color: #adc178;
@@ -107,6 +109,7 @@
     font-size: 28px;
     font-weight: 800;
     margin-bottom: 10px;
+    padding-left: 20px;
 }
 #menu_title > .menu .price {
     font-weight: 800;
